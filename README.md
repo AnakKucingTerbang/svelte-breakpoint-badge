@@ -2,6 +2,8 @@
 
 A lightweight Svelte component that displays the current Tailwind CSS breakpoint during development. Perfect for responsive design debugging!
 
+![Demo](svelte-breakpoint-badge-2.gif)
+
 ## Installation
 ```bash
 npm install svelte-breakpoint-badge
