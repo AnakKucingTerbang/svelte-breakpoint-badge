@@ -1,6 +1,6 @@
 {
   "name": "svelte-breakpoint-badge",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A Svelte component for displaying Tailwind breakpoint indicators during development",
   "author": "firdausai",
   "license": "MIT",
